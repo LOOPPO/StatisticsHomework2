@@ -1,0 +1,26 @@
+C:\Users\eleon\source\repos\csv_parser\csv_parser\bin\Debug\csv_parser.exe.config
+C:\Users\eleon\source\repos\csv_parser\csv_parser\bin\Debug\csv_parser.exe
+C:\Users\eleon\source\repos\csv_parser\csv_parser\bin\Debug\csv_parser.pdb
+C:\Users\eleon\source\repos\csv_parser\csv_parser\bin\Debug\csv_parser.xml
+C:\Users\eleon\source\repos\csv_parser\csv_parser\obj\Debug\csv_parser.vbproj.AssemblyReference.cache
+C:\Users\eleon\source\repos\csv_parser\csv_parser\obj\Debug\csv_parser.vbproj.SuggestedBindingRedirects.cache
+C:\Users\eleon\source\repos\csv_parser\csv_parser\obj\Debug\csv_parser.Form1.resources
+C:\Users\eleon\source\repos\csv_parser\csv_parser\obj\Debug\csv_parser.Resources.resources
+C:\Users\eleon\source\repos\csv_parser\csv_parser\obj\Debug\csv_parser.vbproj.GenerateResource.cache
+C:\Users\eleon\source\repos\csv_parser\csv_parser\obj\Debug\csv_parser.vbproj.CoreCompileInputs.cache
+C:\Users\eleon\source\repos\csv_parser\csv_parser\obj\Debug\csv_parser.exe
+C:\Users\eleon\source\repos\csv_parser\csv_parser\obj\Debug\csv_parser.xml
+C:\Users\eleon\source\repos\csv_parser\csv_parser\obj\Debug\csv_parser.pdb
+C:\Users\sprin\Downloads\Homeworks 2-20230107T173421Z-001\Homeworks 2\csv_parser\bin\Debug\csv_parser.exe.config
+C:\Users\sprin\Downloads\Homeworks 2-20230107T173421Z-001\Homeworks 2\csv_parser\bin\Debug\csv_parser.exe
+C:\Users\sprin\Downloads\Homeworks 2-20230107T173421Z-001\Homeworks 2\csv_parser\bin\Debug\csv_parser.pdb
+C:\Users\sprin\Downloads\Homeworks 2-20230107T173421Z-001\Homeworks 2\csv_parser\bin\Debug\csv_parser.xml
+C:\Users\sprin\Downloads\Homeworks 2-20230107T173421Z-001\Homeworks 2\csv_parser\obj\Debug\csv_parser.vbproj.AssemblyReference.cache
+C:\Users\sprin\Downloads\Homeworks 2-20230107T173421Z-001\Homeworks 2\csv_parser\obj\Debug\csv_parser.vbproj.SuggestedBindingRedirects.cache
+C:\Users\sprin\Downloads\Homeworks 2-20230107T173421Z-001\Homeworks 2\csv_parser\obj\Debug\csv_parser.Form1.resources
+C:\Users\sprin\Downloads\Homeworks 2-20230107T173421Z-001\Homeworks 2\csv_parser\obj\Debug\csv_parser.Resources.resources
+C:\Users\sprin\Downloads\Homeworks 2-20230107T173421Z-001\Homeworks 2\csv_parser\obj\Debug\csv_parser.vbproj.GenerateResource.cache
+C:\Users\sprin\Downloads\Homeworks 2-20230107T173421Z-001\Homeworks 2\csv_parser\obj\Debug\csv_parser.vbproj.CoreCompileInputs.cache
+C:\Users\sprin\Downloads\Homeworks 2-20230107T173421Z-001\Homeworks 2\csv_parser\obj\Debug\csv_parser.exe
+C:\Users\sprin\Downloads\Homeworks 2-20230107T173421Z-001\Homeworks 2\csv_parser\obj\Debug\csv_parser.xml
+C:\Users\sprin\Downloads\Homeworks 2-20230107T173421Z-001\Homeworks 2\csv_parser\obj\Debug\csv_parser.pdb
